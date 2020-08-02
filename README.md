@@ -1,2 +1,5 @@
-# ElementaryScience
-我再挖一个坑，以后再说
+# ElementaryScience  
+  
+#致谢  
+MineChem by pixlepix and jakimfett  
+Gray, T., Field, S. and Mann, N., 2011. Theodore Gray's Elements Vault. 1st ed. New York: Black Dog & Leventhal Publishers.  
